@@ -14,23 +14,15 @@ This project helps businesses efficiently manage products, stock, and sales whil
 📌 Features
 
 📦 Add, update, and delete inventory items
-
 📊 Dashboard with key metrics (total items, stock value, low stock alerts)
-
 💰 Sales tracking and stock updates
-
 🔐 User authentication (Login / Signup)
-
 🎨 Modern SaaS-style UI using Tailwind CSS
-
 ⚡ REST API-based backend
 
 🛠️ Tech Stack
 
 Backend: Python, Flask
-
 Database: MySQL
-
 Frontend: HTML, Tailwind CSS
-
 Tools: Postman (API testing), Git & GitHub
