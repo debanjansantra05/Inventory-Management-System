@@ -19,17 +19,3 @@ Backend: Python, Flask
 Database: MySQL
 Frontend: HTML, Tailwind CSS
 Tools: Postman (API testing), Git & GitHub
-
-🏗️ Project Structure
-project/
-│
-├── app.py
-├── database.sql
-├── templates/
-│   ├── login.html
-│   ├── signup.html
-│   ├── dashboard.html
-│
-├── static/
-├── requirements.txt
-└── README.md
