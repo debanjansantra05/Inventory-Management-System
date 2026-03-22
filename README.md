@@ -15,7 +15,21 @@ This project helps businesses efficiently manage products, stock, and sales whil
 ⚡ REST API-based backend
 🛠️ Tech Stack
 
-Backend: Python, Flask
-Database: MySQL
-Frontend: HTML, Tailwind CSS
-Tools: Postman (API testing), Git & GitHub
+Backend:
+
+Python
+Flask
+
+Database:
+
+MySQL
+
+Frontend:
+
+HTML
+Tailwind CSS
+
+Tools:
+
+Postman (API testing)
+Git & GitHub
